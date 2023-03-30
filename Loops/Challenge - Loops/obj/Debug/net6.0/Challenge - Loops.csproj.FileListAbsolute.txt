@@ -1,0 +1,15 @@
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.exe
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.deps.json
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.runtimeconfig.json
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.dll
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\bin\Debug\net6.0\Challenge - Loops.pdb
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.csproj.AssemblyReference.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.AssemblyInfoInputs.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.AssemblyInfo.cs
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.csproj.CoreCompileInputs.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.dll
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\refint\Challenge - Loops.dll
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.pdb
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\Challenge - Loops.genruntimeconfig.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Loops\Challenge - Loops\obj\Debug\net6.0\ref\Challenge - Loops.dll
