@@ -1,0 +1,16 @@
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL.csproj.AssemblyReference.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\MainWindow.g.cs
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\App.g.cs
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL_MarkupCompile.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL_MarkupCompile.lref
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\bin\Debug\LinqSQL.exe.config
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\bin\Debug\LinqSQL.exe
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\bin\Debug\LinqSQL.pdb
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\MainWindow.baml
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL.g.resources
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL.Properties.Resources.resources
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL.csproj.GenerateResource.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL.csproj.CoreCompileInputs.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL.exe
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqSQL\obj\Debug\LinqSQL.pdb

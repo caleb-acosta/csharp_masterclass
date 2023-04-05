@@ -1,0 +1,15 @@
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\bin\Debug\net6.0\LinqXML.exe
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\bin\Debug\net6.0\LinqXML.deps.json
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\bin\Debug\net6.0\LinqXML.runtimeconfig.json
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\bin\Debug\net6.0\LinqXML.dll
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\bin\Debug\net6.0\LinqXML.pdb
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\LinqXML.csproj.AssemblyReference.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\LinqXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\LinqXML.AssemblyInfoInputs.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\LinqXML.AssemblyInfo.cs
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\LinqXML.csproj.CoreCompileInputs.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\LinqXML.dll
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\refint\LinqXML.dll
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\LinqXML.pdb
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\LinqXML.genruntimeconfig.cache
+C:\Users\Caleb Acosta\Bunsan\curso_dotnet\Using Databases\LinqXML\obj\Debug\net6.0\ref\LinqXML.dll
